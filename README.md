@@ -112,13 +112,13 @@ A curated list of tools for collaborative problem-solving based on the following
 - [PopApp](https://popapp.in/) - helps transform your pen and paper ideas into a real working prototype.
 - [Proto.io](https://proto.io/) - create fully-interactive high-fidelity prototypes. No coding required.
 
-### Hardware Prototyping
+#### Hardware Prototyping
 
 - [Arduino](http://www.arduino.cc/) -  circuitboard to put together interactive hardware prototypes.
 - [BlinkM](http://blink1.thingm.com/) - a programmable led light “designed to give you glanceable notice of anything on your computer or the internet.”
 - [WunderBar](http://www.dragoninnovation.com/projects/35-wunderbar-by-relayr) - "easiest way to create innovative and useful apps to connect smart devices”. 
 
-### Project Management
+#### Project Management
 
 - [Freedcamp](http://alternativeto.net/software/freedcamp/) – an app store where you can install To-Do's, Discussions, Milestones, Time Tracking, and Calendar for free.
 - [Liferay](http://www.liferay.com/) –  a portal, web content management and social collaboration platform.
@@ -132,17 +132,17 @@ A curated list of tools for collaborative problem-solving based on the following
 - [Trello](https://trello.com/) – free web-based project management application.
 - [Wrike](https://www.wrike.com) – an interactive, web-based tool for project management and collaboration.
 
-### Issue Tracking
+#### Issue Tracking
 
 - [IssueTrak](http://www.issuetrak.com/) – issue tracking software that can be customized to help your organization increase productivity, manage resources and simplify the process of resolving issues across your entire organization, department or team.
 
-### User-testing
+#### User-testing
 
 - [Edge Inspect](https://creative.adobe.com/products/inspect) - application for web developers and designers to preview their content across multiple mobile devices. 
 - [Inspectlet](http://www.inspectlet.com/) - watch individual visitors use your site as if you're looking over their shoulders.
 - [UserTesting](https://www.usertesting.com/b/) - get videos of real people using your website or app, in 1 hour. 
 
-### Editing
+#### Editing
 
 - [F5 Audio Transcription Tool](http://www.audiotranskription.de/) - a transcriber tool that can load an audio or video file into a text editor.
 - [Fission](http://rogueamoeba.com/fission/) - crop and trim audio, paste in or join files, or split one long file into many.  
