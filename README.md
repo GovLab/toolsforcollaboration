@@ -90,6 +90,10 @@ A curated list of tools for collaborative problem-solving based on the following
  
 ## Implementation
 
+- [Hatch](https://www.hatchforgood.org/) - connects you to a suite of tools and a growing community that can help you leverage the power of narrative to increase reach, resources and impact for your social impact organization.
+- [IFTTT](https://ifttt.com/) - a service that lets you create powerful connections with one simple statement: “if this, then that”.
+- [NeighborWorks](http://www.neighborworks.org/) - NeighborWorks is a community development hub that supports more than 240 U.S. development organizations through grants and technical assistance.
+
 ### Mockups & Experience Prototyping Tools
 
 - [Adobe Proto](http://www.adobe.com/creativecloud/catalog/mobile.html) - “a new Adobe Touch App, lets you create interactive wireframes and prototypes of websites and mobile apps on your tablet”.
@@ -114,10 +118,39 @@ A curated list of tools for collaborative problem-solving based on the following
 - [BlinkM](http://blink1.thingm.com/) - a programmable led light “designed to give you glanceable notice of anything on your computer or the internet.”
 - [WunderBar](http://www.dragoninnovation.com/projects/35-wunderbar-by-relayr) - "easiest way to create innovative and useful apps to connect smart devices”. 
 
+### Project Management
 
+- [Freedcamp](http://alternativeto.net/software/freedcamp/) – an app store where you can install To-Do's, Discussions, Milestones, Time Tracking, and Calendar for free.
+- [Liferay](http://www.liferay.com/) –  a portal, web content management and social collaboration platform.
+- [LiquidPlanner](http://www.liquidplanner.com/) – wiki-like pages, document sharing, Twitter-like commenting and predictive scheduling.
+- [LucidChart](https://www.lucidchart.com) – collaborative diagramming and website/software prototyping, supports real-time collaboration, built on web standards.
+- [OpenProject](https://www.openproject.org/) – an open source project collaboration suite.
+- [Producteev](https://www.producteev.com/) – an online task management tool that serves as your full productivity platform (task and project management, files sharing, internal communication and productivity apps aggregation).
+- [Project.net](http://www.project.net/) – open source project management software with document, task, and project sharing and collaboration. 
+- [Sharetronix](http://sharetronix.com/) - create a private social network for your organization. 
+- [TopCoder](http://www.topcoder.com/) – a programming expert network, collaboration engine and contest platform. The network provides users a “reputation score” that is listed on their profile page, alongside a set of various statistics regarding their participation in TopCoder challenges. The network also uses competitions and tournaments to drive and incentivize engagement.
+- [Trello](https://trello.com/) – free web-based project management application.
+- [Wrike](https://www.wrike.com) – an interactive, web-based tool for project management and collaboration.
 
+### Issue Tracking
 
+- [IssueTrak](http://www.issuetrak.com/) – issue tracking software that can be customized to help your organization increase productivity, manage resources and simplify the process of resolving issues across your entire organization, department or team.
 
+### User-testing
+
+- [Edge Inspect](https://creative.adobe.com/products/inspect) - application for web developers and designers to preview their content across multiple mobile devices. 
+- [Inspectlet](http://www.inspectlet.com/) - watch individual visitors use your site as if you're looking over their shoulders.
+- [UserTesting](https://www.usertesting.com/b/) - get videos of real people using your website or app, in 1 hour. 
+
+### Editing
+
+- [F5 Audio Transcription Tool](http://www.audiotranskription.de/) - a transcriber tool that can load an audio or video file into a text editor.
+- [Fission](http://rogueamoeba.com/fission/) - crop and trim audio, paste in or join files, or split one long file into many.  
+- [Garageband](https://www.apple.com/mac/garageband/) - Apple’s audio editing application.
+- [Piezo](http://rogueamoeba.com/piezo/) - to record audio on your Mac from any application or from audio inputs like microphones.
+- [Sound Studio](http://felttip.com/) - audio editing application 
+
+## Enforcement & Adjudication
 
 
 
