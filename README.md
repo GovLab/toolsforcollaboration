@@ -94,7 +94,7 @@ A curated list of tools for collaborative problem-solving based on the following
 - [IFTTT](https://ifttt.com/) - a service that lets you create powerful connections with one simple statement: “if this, then that”.
 - [NeighborWorks](http://www.neighborworks.org/) - NeighborWorks is a community development hub that supports more than 240 U.S. development organizations through grants and technical assistance.
 
-### Mockups & Experience Prototyping Tools
+#### Mockups & Experience Prototyping
 
 - [Adobe Proto](http://www.adobe.com/creativecloud/catalog/mobile.html) - “a new Adobe Touch App, lets you create interactive wireframes and prototypes of websites and mobile apps on your tablet”.
 - [CartoDB](http://cartodb.com/) - create maps for the web.
