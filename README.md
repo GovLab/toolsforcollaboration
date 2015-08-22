@@ -5,7 +5,9 @@ A curated list of tools for collaborative problem-solving based on the following
 - [Solution Formulation](#solution-formulation)
 - [Implementation](#implementation)
 - [Enforcement & Adjudication](#enforcement-&-adjudication)
-- [Monitoring & Evaluation](monitoring-&-evaluation)
+- [Monitoring & Evaluation](#monitoring-&-evaluation)
+
++ other [Useful Resources](#useful-resources)
 
 
 ## Agenda Setting
@@ -152,11 +154,98 @@ A curated list of tools for collaborative problem-solving based on the following
 
 ## Enforcement & Adjudication
 
+- [ArchiveSocial](http://archivesocial.com/) - a social media archiving solution that automates record keeping from social media networks like Facebook and Twitter. It is geared towards business compliance and legal protection activities in enterprises, addressing record keeping challenges in industries like financial services, government, and education. 
+
+#### Identify Non-compliance
+
+-  [U-report](http://ureport.ug/) – a free SMS-based system that allows Ugandans “to establish and enforce new standards of transparency and accountability in development programming and services” by becoming “U-reporters”.
+
+#### Rating Systems 
+
+- [Liquid Feedback](http://blog.liquidfeedback.org/) – voting and reputation system.
+- [Yelp](https://www.yelp.com) - find, review and talk about what's great - and not so great - in your local area.
+
+#### Whistle Blower 
+
+- [3sixty](http://www.get3sixty.com) – an easy, free service which helps you gather great quality anonymous feedback from your team.
+
+## Monitoring & Evaluation
+
+- [CityWorks](http://www.cityworks.com/) - leading provider of GIS-centric asset management solutions, performing cost-effective inspection, monitoring, and condition assessment.
+- [ClassDojo](https://www.classdojo.com/) - allows educators to track student behaviour, award points for improvement and email parents a weekly report about how their son or daughter is doing.
+- [Open311 API](http://www.citysdk.eu/citysdk-toolkit/using-the-apis/open311-api/) – developed in the U.S. as a common standard for fault or issue reporting. This is an API that can be used for a wide range of purposes around consultation and participation.
+- [SeeClickFix](http://www.seeclickfix.com/) - web tool for citizens to report and vote on neighborhood issues.
+- [Sentiment analysis](http://thegovlab.org/wiki/Sentiment_analysis_and_opinion_mining) - e.g. through Google Analytics.
+
+####Measuring ISP bandwidth
+
+- http://www.dslreports.com/speedtest
+- http://www.pingtest.net/
+- https://www.google.com/get/videoqualityreport/ – video streaming quality
+
+####Measuring telephony
+
+- http://www.ringcentral.com/support/qos.html – voice quality
+- http://www.rootmetrics.com/us – cell phone coverage
+
+####800 phone tip service, e.g. to report cyber porn, cyber bullying
+- http://www.missingkids.com/cybertipline
+- https://www.cybertip.ca/app/en/
+
+###dashboarding tools
+- [Tableau](http://www.tableau.com/) - helps people visualize and understand their data. 
+- [D3.js](http://alternativeto.net/software/d3-js/) – a JavaScript library for manipulating documents based on data.
+
+##Useful Resources
+
+###Communication
+
+IRC - a very old protocol, does pure-text chat only.  There are many clients and free, open servers.  It’s also possible to run your own server using free code.
+Slack – Slack brings all your communication together in one place. It’s real-time messaging, archiving and search for modern teams.
+Zulip - Very similar to Slack.  Hosted, per-organization.  No information available publicly, it seems.
+Unison –  a fast messenger and group collaboration tool that lets teams work much more quickly together, especially across different locations and time zones.
+Kandan –  Open Source private chat server. Your own private Chat server in minutes, plus additional features.
+Discourse – Discourse is a platform for community discussion. Whenever you need a mailing list, a forum to discuss something, a chat room where you can type paragraphs, consider Discourse.
+Hall.com – web-based collaboration, group chat, video chat, file sharing, one-on-one chat and more
+Yammer – enterprise and team collaboration software and private social network
+Zoho Connect- From ideas to execution, Zoho Connect is your organization's private social network that redefines the way your employees and teams share information and collaborate with each other.
+HipChat - HipChat is hosted group chat and video chat built for teams. Supercharge real-time collaboration with persistent chat rooms, file sharing, and screen sharing.
+Google Hangouts - Free video calling for groups up to ten people across computers, Android and Apple devices 
+Vidyo - Multi-Platform Video Conferencing 
+JoinMe - Free, simple, fast online meetings. Share your screen instantly with anyone.
+Skype - video chat and voice calls from computers, tablets and mobile devices via the Internet to other devices or telephones/smartphones
+FireChat - Open Garden allows all devices (including smart phones, tablets, laptops and “wearables”) to work together and find the best connections at any time.
+Zoom - “Zoom unifies cloud video conferencing, simple online meetings, and cross platform group chat into one easy-to-use platform.”
+iChat - Apple’s video chat and instant messaging application
+FaceTime - Apple’s video chat application available on Mac OS and iOS platforms
+Call Recorder - Skype plug-in to record audio and video calls
+Topi - “With the concept of networking in mind, Topi’s mission is to enhance the mobile experience for all event attendees by unlocking interactions in new ways and eliminate the use of name tag overflow. The Topi application also includes standard features such as event schedules, maps, speaker information, etc.” 
+Spotme - “Mobile event and conference apps for iOS, Android and more—suitable for meetings of all sizes”
+
+###Misc Data Science 
+
+CSV Kit - “A suite of utilities for converting to and working with CSV”
+D3.js - D3.js is a JavaScript library for manipulating documents based on data.
+Data Tables - “DataTables is a plug-in for the jQuery Javascript library. It is a highly flexible tool, based upon the foundations of progressive enhancement, and will add advanced interaction controls to any HTML table.”
+Data Wrangler - Wrangler is an interactive tool for data cleaning and transformation.
+Datawrapper - “Create charts and maps in just four steps.”
+eSpatial - “Convert Excel spreadsheets into maps”
+TimeFlow - “TimeFlow Analytical Timeline is a visualization tool for temporal data”
+VIDA - “Build, reuse and customize your data visualizations with D3.JS in the cloud”
+VIDI - Drupal data visualization modules
 
 
+###Examples of Innovative Platforms and Tools
 
-
-
+AngelList - AngelList is where the world meets startups. Investors: invest in early-stage startups. Startups: find team members, angel investors and venture capital.
+Airware - Airware is building the Aerial Information Platform for the development and safe operation of commercial drones.
+Stripe -  Stripe is a suite of APIs that powers commerce for businesses of all sizes and a system that makes it easy for online retailers to process payments
+TechShop - TechShop is a vibrant, creative community that provides access to tools, software and space. You can make virtually anything at TechShop. 
+Proteus - Proteus's Digital Health Feedback System is designed to provide actionable information that can improve patient care and self-health management. 
+Houzz - Houzz is the new way to design your home. Browse 4 million interior design photos, home decor, decorating ideas and home professionals online.
+Vicarious - We are building a unified algorithmic architecture to achieve human-level intelligence in vision, language, and motor control.
+Shape Security - Website defense. Instead of guessing about the nature of traffic, the ShapeShifter simply disables the capability of malware to interact with your website. 
+Access to Justice Author (A2J Author®) - “Access to Justice Author (A2J Author®) is a cloud based software tool that delivers greater access to justice for self-represented litigants by enabling non-technical authors from the courts, clerk’s offices, legal services organizations, and law schools to rapidly build and implement user friendly web-based interfaces for document assembly.”
 
 
 
