@@ -4,10 +4,10 @@ A curated list of tools for collaborative problem-solving based on the following
 - [Solution Finding](#solution-finding)
 - [Solution Formulation](#solution-formulation)
 - [Implementation](#implementation)
-- [Enforcement & Adjudication](#enforcement-&-adjudication)
-- [Monitoring & Evaluation](#monitoring-&-evaluation)
+- [Enforcement and Adjudication](#enforcement-and-adjudication)
+- [Monitoring and Evaluation](#monitoring-and-evaluation)
 
-+ other [Useful Resources](#useful-resources)
+and  other [Useful Resources](#useful-resources)
 
 
 ## Agenda Setting
@@ -152,7 +152,7 @@ A curated list of tools for collaborative problem-solving based on the following
 - [Piezo](http://rogueamoeba.com/piezo/) - to record audio on your Mac from any application or from audio inputs like microphones.
 - [Sound Studio](http://felttip.com/) - audio editing application 
 
-## Enforcement & Adjudication
+## Enforcement and Adjudication
 
 - [ArchiveSocial](http://archivesocial.com/) - a social media archiving solution that automates record keeping from social media networks like Facebook and Twitter. It is geared towards business compliance and legal protection activities in enterprises, addressing record keeping challenges in industries like financial services, government, and education. 
 
@@ -169,7 +169,7 @@ A curated list of tools for collaborative problem-solving based on the following
 
 - [3sixty](http://www.get3sixty.com) – an easy, free service which helps you gather great quality anonymous feedback from your team.
 
-## Monitoring & Evaluation
+## Monitoring and Evaluation
 
 - [CityWorks](http://www.cityworks.com/) - leading provider of GIS-centric asset management solutions, performing cost-effective inspection, monitoring, and condition assessment.
 - [ClassDojo](https://www.classdojo.com/) - allows educators to track student behaviour, award points for improvement and email parents a weekly report about how their son or daughter is doing.
