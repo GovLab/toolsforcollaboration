@@ -64,7 +64,7 @@ and  other [Useful Resources](#useful-resources)
 - [Blexting](http://makeloveland.com/) - a mobile app that lets individuals photographically survey properties and update condition information for posting and sharing. These pictures and surveys aim to help cities fight blight. The Blexting app was created by LOVELAND, a group that works with governments, neighborhood groups, and development projects to gather public information about properties in clearer, more effective ways.
 - [ChallengePost](http://challengepost.com/) - a community of hackers, and a space to include open source projects, get feedback, and connect with fellow makers.
 - [CommunityPlanIt](https://communityplanit.org/) -  a game that makes planning playful, and gives everyone the power to shape the future of their community.
-- [Discourse](http://www.discourse.org/) – a platform for community discussion. Whenever you need a mailing list, a forum to discuss something, a chat room where you can type paragraphs, consider Discourse.
+- [Discourse](http://www.discourse.org/) – a platform for community discussion. Whenever you need a mailing list, a forum to discuss something, a chat room where you can type paragraphs, consider Discourse. Watch demo [HERE](https://www.youtube.com/watch?v=huvacbBV8hY).
 - [Draft](https://draftin.com/) – An online tool for collaborative drafting that supports version control and commenting; cloud services like Evernote, Dropbox and Google Drive; in-browser extensions; audio/video transcription tools; markdown to-dos; engagement analytics with several data fields, including the [Fleisch reading level](http://en.wikipedia.org/wiki/Flesch%E2%80%93Kincaid_readability_tests) for words; and data and file sharing.
 - [Evernote](https://evernote.com/evernote/) – A popular cloud-based note-taking and archiving system that supports cross-device synchronization and updates; in-browser extensions (for saving pages or sections of content from pages); file sharing; and the ability to tag content.
 - [Fountain](https://www.fountain.com/login) - helps you whenever you’re stuck on a problem, by connecting you with a highly rated expert who can help. In under 5 minutes you’ll be connected 1-on-1 through video chat, text and photos with annotation.
@@ -200,27 +200,24 @@ and  other [Useful Resources](#useful-resources)
 
 ###Communication
 
-IRC - a very old protocol, does pure-text chat only.  There are many clients and free, open servers.  It’s also possible to run your own server using free code.
-Slack – Slack brings all your communication together in one place. It’s real-time messaging, archiving and search for modern teams.
-Zulip - Very similar to Slack.  Hosted, per-organization.  No information available publicly, it seems.
-Unison –  a fast messenger and group collaboration tool that lets teams work much more quickly together, especially across different locations and time zones.
-Kandan –  Open Source private chat server. Your own private Chat server in minutes, plus additional features.
-Discourse – Discourse is a platform for community discussion. Whenever you need a mailing list, a forum to discuss something, a chat room where you can type paragraphs, consider Discourse.
-Hall.com – web-based collaboration, group chat, video chat, file sharing, one-on-one chat and more
-Yammer – enterprise and team collaboration software and private social network
-Zoho Connect- From ideas to execution, Zoho Connect is your organization's private social network that redefines the way your employees and teams share information and collaborate with each other.
-HipChat - HipChat is hosted group chat and video chat built for teams. Supercharge real-time collaboration with persistent chat rooms, file sharing, and screen sharing.
-Google Hangouts - Free video calling for groups up to ten people across computers, Android and Apple devices 
-Vidyo - Multi-Platform Video Conferencing 
-JoinMe - Free, simple, fast online meetings. Share your screen instantly with anyone.
-Skype - video chat and voice calls from computers, tablets and mobile devices via the Internet to other devices or telephones/smartphones
-FireChat - Open Garden allows all devices (including smart phones, tablets, laptops and “wearables”) to work together and find the best connections at any time.
-Zoom - “Zoom unifies cloud video conferencing, simple online meetings, and cross platform group chat into one easy-to-use platform.”
-iChat - Apple’s video chat and instant messaging application
-FaceTime - Apple’s video chat application available on Mac OS and iOS platforms
-Call Recorder - Skype plug-in to record audio and video calls
-Topi - “With the concept of networking in mind, Topi’s mission is to enhance the mobile experience for all event attendees by unlocking interactions in new ways and eliminate the use of name tag overflow. The Topi application also includes standard features such as event schedules, maps, speaker information, etc.” 
-Spotme - “Mobile event and conference apps for iOS, Android and more—suitable for meetings of all sizes”
+- [Call Recorder](http://www.ecamm.com/mac/) - skype plug-in to record audio and video calls.
+- [Discourse](http://www.discourse.org/) – a platform for community discussion. Whenever you need a mailing list, a forum to discuss something, a chat room where you can type paragraphs, consider Discourse. Watch demo [HERE](https://www.youtube.com/watch?v=huvacbBV8hY).
+- [FireChat](https://opengarden.com/firechat) - open garden allows all devices (including smart phones, tablets, laptops and “wearables”) to work together and find the best connections at any time.
+- [Google Hangouts](https://plus.google.com/hangouts) - free video calling for groups up to ten people across computers, Android and Apple devices.
+- [HipChat](http://www.hipchat.com) - hosts group chat and video chat built for teams. Supercharge real-time collaboration with persistent chat rooms, file sharing, and screen sharing.
+- [IRC](http://www.irc.org/) - a very old protocol, does pure-text chat only.  There are many clients and free, open servers. It’s also possible to run your own server using free code.
+- [JoinMe](https://join.me/) - free, simple, fast online meetings. Share your screen instantly with anyone.
+- [Kandan](http://kandanapp.com/) –  open Source private chat server. Your own private Chat server in minutes, plus additional features.
+- [Skype](http://www.skype.com/en/) - video chat and voice calls from computers, tablets and mobile devices via the Internet to other devices or telephones/smartphones
+- [Slack](https://slack.com/) – brings all your communication together in one place. It’s real-time messaging, archiving and search for modern teams.
+- [Spotme](http://spotme.com/) - mobile event and conference apps for iOS, Android suitable for meetings of all sizes.
+- [Topi](http://topi.com/) - enhances the mobile experience for event attendees by unlocking interactions in new ways and eliminate the use of name tag overflow. It includes standard features such as event schedules, maps, speaker information, etc.
+- [Vidyo](http://www.vidyo.com/‎) - multi-platform video conferencing. 
+- [Yammer](https://www.yammer.com/) – enterprise and team collaboration software and private social network.
+- [Zoho Connect](https://www.zoho.com/connect/)- provides organizations a private social network to redefine the way employees and teams share information and collaborate with each other.
+- [Zoom](https://www.zoom.us/) - unified cloud video conferencing, online meetings, and cross platform group chat into one platform.
+- [Zulip](https://zulip.com/) - similar to Slack,  hosted, per-organization. No publicly available information.
+- [Unison](https://www.unison.com/) –  a fast messenger and group collaboration tool that lets teams work more quickly together, especially across different locations and time zones.
 
 ###Misc Data Science 
 
