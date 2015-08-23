@@ -8,7 +8,9 @@ A curated list of tools for collaborative problem-solving based on the following
 - [Monitoring and Evaluation](#monitoring-and-evaluation)
 
 and  other [Useful Resources](#useful-resources)
-
+  - [Communications](#communications)
+  - [Misc Data Science}(#misc-data-science)
+  - [Examples of Innovative Platforms and Tools](#examples-of-innovative-platforms-and-tools)
 
 ## Agenda Setting
 
@@ -221,33 +223,25 @@ and  other [Useful Resources](#useful-resources)
 
 ###Misc Data Science 
 
-CSV Kit - “A suite of utilities for converting to and working with CSV”
-D3.js - D3.js is a JavaScript library for manipulating documents based on data.
-Data Tables - “DataTables is a plug-in for the jQuery Javascript library. It is a highly flexible tool, based upon the foundations of progressive enhancement, and will add advanced interaction controls to any HTML table.”
-Data Wrangler - Wrangler is an interactive tool for data cleaning and transformation.
-Datawrapper - “Create charts and maps in just four steps.”
-eSpatial - “Convert Excel spreadsheets into maps”
-TimeFlow - “TimeFlow Analytical Timeline is a visualization tool for temporal data”
-VIDA - “Build, reuse and customize your data visualizations with D3.JS in the cloud”
-VIDI - Drupal data visualization modules
-
+- [CSV Kit](https://github.com/onyxfish/csvkit) - A suite of utilities for converting to and working with CSV.
+- [D3.js](http://d3js.org/) - a JavaScript library for manipulating documents based on data.
+- [Data Tables](http://datatables.net/) - a plug-in for the jQuery Javascript library. It is a highly flexible tool, based upon the foundations of progressive enhancement. Adds advanced interaction controls to HTML tables.
+- [Data Wrangler](http://vis.stanford.edu/wrangler/) - an interactive tool for data cleaning and transformation.
+- [Datawrapper](https://datawrapper.de/) - to easily wreate charts and maps in four steps.
+- [eSpatial](https://www.espatial.com/) - to convert Excel spreadsheets into maps.
+- [TimeFlow](https://github.com/FlowingMedia/TimeFlow/wiki) - a visualization tool for temporal data.
+- [VIDA](https://vida.io/) - to build, reuse and customize data visualizations with D3.JS in the cloud.
+- [VIDI](http://www.dataviz.org/) - drupal data visualization modules.
 
 ###Examples of Innovative Platforms and Tools
 
-AngelList - AngelList is where the world meets startups. Investors: invest in early-stage startups. Startups: find team members, angel investors and venture capital.
-Airware - Airware is building the Aerial Information Platform for the development and safe operation of commercial drones.
-Stripe -  Stripe is a suite of APIs that powers commerce for businesses of all sizes and a system that makes it easy for online retailers to process payments
-TechShop - TechShop is a vibrant, creative community that provides access to tools, software and space. You can make virtually anything at TechShop. 
-Proteus - Proteus's Digital Health Feedback System is designed to provide actionable information that can improve patient care and self-health management. 
-Houzz - Houzz is the new way to design your home. Browse 4 million interior design photos, home decor, decorating ideas and home professionals online.
-Vicarious - We are building a unified algorithmic architecture to achieve human-level intelligence in vision, language, and motor control.
-Shape Security - Website defense. Instead of guessing about the nature of traffic, the ShapeShifter simply disables the capability of malware to interact with your website. 
-Access to Justice Author (A2J Author®) - “Access to Justice Author (A2J Author®) is a cloud based software tool that delivers greater access to justice for self-represented litigants by enabling non-technical authors from the courts, clerk’s offices, legal services organizations, and law schools to rapidly build and implement user friendly web-based interfaces for document assembly.”
-
-
-
-
-
-
-
+- [Access to Justice Author](http://www.a2jauthor.org/) (A2J Author®) - a cloud based software tool that delivers greater access to justice for self-represented litigants by enabling non-technical authors from the courts, clerk’s offices, legal services organizations, and law schools to rapidly build and implement user friendly web-based interfaces for document assembly.
+- [AngelList](https://angel.co/) - where the world meets startups. Investors: invest in early-stage startups. Startups: find team members, angel investors and venture capital.
+- [Airware](http://www.airware.com/) - building the Aerial Information Platform for the development and safe operation of commercial drones.
+- [Houzz](http://www.houzz.com) - the new way to design your home. Browse 4 million interior design photos, home decor, decorating ideas and home professionals online.
+- [Proteus](http://www.proteus.com/) - digital health feedback system is designed to provide actionable information that can improve patient care and self-health management. 
+- [Shape Security](https://www.shapesecurity.com/) - website defense. Instead of guessing about the nature of traffic, the ShapeShifter simply disables the capability of malware to interact with your website. 
+- [Stripe](https://stripe.com/) - a suite of APIs that powers commerce for businesses of all sizes and a system that makes it easy for online retailers to process payments
+- [TechShop](http://www.techshop.ws/) - a vibrant, creative community that provides access to tools, software and space. You can make virtually anything at TechShop. 
+- [Vicarious](http://vicarious.com/) - building a unified algorithmic architecture to achieve human-level intelligence in vision, language, and motor control.
 
