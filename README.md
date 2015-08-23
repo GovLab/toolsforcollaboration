@@ -8,8 +8,8 @@ A curated list of tools for collaborative problem-solving based on the following
 - [Monitoring and Evaluation](#monitoring-and-evaluation)
 
 and  other [Useful Resources](#useful-resources)
-  - [Communications](#communications)
-  - [Misc Data Science}(#misc-data-science)
+  - [Communication](#communication)
+  - [Misc Data Science](#misc-data-science)
   - [Examples of Innovative Platforms and Tools](#examples-of-innovative-platforms-and-tools)
 
 ## Agenda Setting
