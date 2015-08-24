@@ -1,11 +1,11 @@
 # The GovLab Toolkit: Overview of Collaborative Tools
 A curated list of tools for collaborative problem-solving based on the following six stages of distributed governance:
-- [Agenda Setting](#agenda-setting)
-- [Solution Finding](#solution-finding)
-- [Solution Formulation](#solution-formulation)
-- [Implementation](#implementation)
-- [Enforcement and Adjudication](#enforcement-and-adjudication)
-- [Monitoring and Evaluation](#monitoring-and-evaluation)
+- [Agenda Setting](#agenda-setting) DEFINE
+- [Solution Finding](#solution-finding) DEFINE
+- [Solution Formulation](#solution-formulation) DEFINE
+- [Implementation](#implementation) DEFINE
+- [Enforcement and Adjudication](#enforcement-and-adjudication) DEFINE
+- [Monitoring and Evaluation](#monitoring-and-evaluation) DEFINE
 
 and  other [Useful Resources](#useful-resources)
   - [Communication](#communication)
@@ -24,6 +24,7 @@ Key: * = open source & + = free use.
 - [DemocracyOS](http://democracyos.org/) - open-source, vote and debate tool, crafted for parliaments, parties and decision-making institutions that will allow citizens to get informed, join the conversation and vote on topics, just how they want their representatives to vote. Watch a demo [HERE](https://www.youtube.com/watch?v=2ZF4N8ThPvs).
 - [GoogleForms](http://www.google.com/forms/about/) – create a new survey on your own or with others at the same time.
 - [Google Moderator](https://www.google.com/moderator/) – Let your audience decide. Get to know your audience by letting them decide which questions, suggestions or ideas interest them most.
+- GovLab Academy Canvas
 - [Ideascale](http://ideascale.com/) – a cloud-based software company that licenses an innovation management platform employing the principles and practices of crowdsourcing.
 - [Loomio](https://www.loomio.org/) – an open source tool for collaborative decision-making and democratic organizing. Watch demo [HERE](https://www.youtube.com/watch?v=q5kXQH4vHpM).
 - [Neighborland](https://neighborland.com/) - empowers people to take action on local issues. It’s a new way for people to share insights, identify resources, and connect with decision makers to make great ideas happen. 
@@ -45,6 +46,7 @@ Key: * = open source & + = free use.
 
 - [All our Ideas](http://www.allourideas.org/) - a data collection tool that has the scale, speed, and quantification of a survey while still allowing for new information to "bubble up" from respondents as happens in interviews, participant observation, and focus groups.
 - [AskMetafilter](http://ask.metafilter.com/) - questions and answers by the MetaFilter community. 
+- CKAN
 - [DataKind](https://play.google.com/store/apps/details?id=com.google.android.apps.paidtasks&hl=en) – brings high-impact organizations dedicated to solving the world’s biggest challenges together with leading data scientists to improve the quality of, access to and understanding of data in the social sector.
 - [GoogleForms](http://www.google.com/forms/about/) – create a new survey on your own or with others at the same time.
 	- [Google Consumer Survey](https://www.google.com/insights/consumersurveys/home)
@@ -59,7 +61,6 @@ Key: * = open source & + = free use.
 - [OpenIdeo](https://openideo.com/) – a web-based platform for innovation where designers and other creative thinkers create together
 - [Quora](http://www.quora.com/) - a question-and-answer website where questions are created, answered, edited and organized by its community of users.
 - [Reddit](http://reddit.com/) – crowdsourced content and voting platform.
-- [Socrata](http://www.socrata.com/) - a cloud software company that aims to democratize access to government data through their open data and open performance platform. Their solutions help government leaders improve transparency by easing citizen access to data in a speedy and cost-effective manner. 
 - [Stack Exchange](http://stackexchange.com/) – a question and answer forum to get expert advice on a diversity of topics. Stack Exchange gives users the ability to upvote questions and answers, provides distinct, topic-based Q&A sites within the larger Stack Exchange framework, including the computer programming Stack Overflow community.
 - [Textizen](https://www.textizen.com/) – built by [Code for America](http://commons.codeforamerica.org/apps/textizen), Textizen is an easy-access SMS-based tool for proactive outreach, structured input, and ongoing engagement.
 - [Yahoo Answers](https://answers.yahoo.com/) - share insights and experience. Get answers, ask questions, and find information.
