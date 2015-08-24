@@ -14,8 +14,8 @@ and  other [Useful Resources](#useful-resources)
 
 Inspired by [awesome-dataviz](https://github.com/fasouto/awesome-dataviz), "a curated list of awesome data visualizations frameworks, libraries and software". 
 
-* = open source. 
-** = open source and free use. 
+"* = open source."
+"** = open source and free use."
 
 ## Agenda Setting
 
