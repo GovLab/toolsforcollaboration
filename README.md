@@ -14,8 +14,7 @@ and  other [Useful Resources](#useful-resources)
 
 Inspired by [awesome-dataviz](https://github.com/fasouto/awesome-dataviz), "a curated list of awesome data visualizations frameworks, libraries and software". 
 
-"* = open source."
-"** = open source and free use."
+Key: * = open source & ** = open source and free use.
 
 ## Agenda Setting
 
@@ -24,7 +23,7 @@ Inspired by [awesome-dataviz](https://github.com/fasouto/awesome-dataviz), "a cu
 - [AskMetafilter](http://ask.metafilter.com/) - auestions and answers by the MetaFilter community. 
 - [DemocracyOS](http://democracyos.org/) - open-source, vote and debate tool, crafted for parliaments, parties and decision-making institutions that will allow citizens to get informed, join the conversation and vote on topics, just how they want their representatives to vote. Watch a demo [HERE](https://www.youtube.com/watch?v=2ZF4N8ThPvs).
 - [GoogleForms](http://www.google.com/forms/about/) – create a new survey on your own or with others at the same time.
-- Google Moderator – Let your audience decide. Get to know your audience by letting them decide which questions, suggestions or ideas interest them most.
+- [Google Moderator](https://www.google.com/moderator/) – Let your audience decide. Get to know your audience by letting them decide which questions, suggestions or ideas interest them most.
 - [Ideascale](http://ideascale.com/) – a cloud-based software company that licenses an innovation management platform employing the principles and practices of crowdsourcing.
 - [Loomio](https://www.loomio.org/) – an open source tool for collaborative decision-making and democratic organizing. Watch demo [HERE](https://www.youtube.com/watch?v=q5kXQH4vHpM).
 - [Neighborland](https://neighborland.com/) - empowers people to take action on local issues. It’s a new way for people to share insights, identify resources, and connect with decision makers to make great ideas happen. 
