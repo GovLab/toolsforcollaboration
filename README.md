@@ -12,6 +12,8 @@ and  other [Useful Resources](#useful-resources)
   - [Misc Data Science](#misc-data-science)
   - [Examples of Innovative Platforms and Tools](#examples-of-innovative-platforms-and-tools)
 
+Inspired by [awesome-dataviz](https://github.com/fasouto/awesome-dataviz), "a curated list of awesome data visualizations frameworks, libraries and software". 
+
 ## Agenda Setting
 
 - [Agreeable](http://www.agreeble.com/) – voting software with Likert scale measurements.
@@ -244,4 +246,14 @@ and  other [Useful Resources](#useful-resources)
 - [Stripe](https://stripe.com/) - a suite of APIs that powers commerce for businesses of all sizes and a system that makes it easy for online retailers to process payments
 - [TechShop](http://www.techshop.ws/) - a vibrant, creative community that provides access to tools, software and space. You can make virtually anything at TechShop. 
 - [Vicarious](http://vicarious.com/) - building a unified algorithmic architecture to achieve human-level intelligence in vision, language, and motor control.
+
+# Contributing
+
+- Please check for duplicates first.
+- Keep descriptions short, simple and unbiased.
+- Please make an individual commit for each suggestion
+- Add a new category if needed.
+
+Thanks for your suggestions!
+
 
