@@ -32,12 +32,13 @@ Key: * = open source & + = free use.
 - [Question2Answer](http://www.question2answer.org) –  a Q&A site helps your online community to share knowledge. No matter what your area of interest, people with questions can get super answers fast.
 - [Quora](http://www.quora.com/) - a question-and-answer website where questions are created, answered, edited and organized by its community of users.
 - [Reddit](http://reddit.com/) – crowdsourced content and voting platform.
+- Screendoor
 - [Stack Exchange](http://stackexchange.com/) – a question and answer forum to get expert advice on a diversity of topics. Stack Exchange gives users the ability to upvote questions and answers, provides distinct, topic-based Q&A sites within the larger Stack Exchange framework, including the computer programming Stack Overflow community.
-- [Stormboard](https://www.stormboard.com/) – realtime Brainstorming and Collaboration .
+- [Stormboard](https://www.stormboard.com/) – realtime Brainstorming and Collaboration.
 - [SurveyGizmo](http://www.surveygizmo.com/) – offers an API for integrating survey functionality into websites, blogs and other applications, including integration with Salesforce.com.
 - [SurveyMonkey](https://www.surveymonkey.com) – create and publish online surveys in minutes, and view results graphically and in real time.
 - [Textizen](https://www.textizen.com/) – built by [Code for America](http://commons.codeforamerica.org/apps/textizen), Textizen is an easy-access SMS-based tool for proactive outreach, structured input, and ongoing engagement.
-- [The California Report Card](http://californiareportcard.org/) - “allows participants to advise the state government on timely policy issues”.
+- Typeform
 - [Yahoo Answers](https://answers.yahoo.com/) - share insights and experience. Get answers, ask questions, and find information.
 
 ## Solution Finding
