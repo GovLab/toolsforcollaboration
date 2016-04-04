@@ -1,11 +1,11 @@
 # The GovLab Toolkit: Overview of Collaborative Tools
 A curated list of tools for collaborative problem-solving based on the following six stages of distributed governance:
-- [Agenda Setting](#agenda-setting) DEFINE
-- [Solution Finding](#solution-finding) DEFINE
-- [Solution Formulation](#solution-formulation) DEFINE
-- [Implementation](#implementation) DEFINE
-- [Enforcement and Adjudication](#enforcement-and-adjudication) DEFINE
-- [Monitoring and Evaluation](#monitoring-and-evaluation) DEFINE
+- [Agenda Setting](#agenda-setting) 
+- [Solution Finding](#solution-finding) 
+- [Solution Formulation](#solution-formulation) 
+- [Implementation](#implementation) 
+- [Enforcement and Adjudication](#enforcement-and-adjudication) 
+- [Monitoring and Evaluation](#monitoring-and-evaluation) 
 
 and  other [Useful Resources](#useful-resources)
   - [Communication](#communication)
