@@ -185,28 +185,28 @@ Key: * = open source & + = free use.
 - [SeeClickFix](http://www.seeclickfix.com/) - web tool for citizens to report and vote on neighborhood issues.
 - [Sentiment analysis](http://thegovlab.org/wiki/Sentiment_analysis_and_opinion_mining) - e.g. through Google Analytics.
 
-####Measuring ISP bandwidth
+#### Measuring ISP bandwidth
 
 - http://www.dslreports.com/speedtest
 - http://www.pingtest.net/
 - https://www.google.com/get/videoqualityreport/ – video streaming quality
 
-####Measuring telephony
+#### Measuring telephony
 
 - http://www.ringcentral.com/support/qos.html – voice quality
 - http://www.rootmetrics.com/us – cell phone coverage
 
-####800 phone tip service, e.g. to report cyber porn, cyber bullying
+#### 800 phone tip service, e.g. to report cyber porn, cyber bullying
 - http://www.missingkids.com/cybertipline
 - https://www.cybertip.ca/app/en/
 
-###dashboarding tools
+### dashboarding tools
 - [Tableau](http://www.tableau.com/) - helps people visualize and understand their data. 
 - [D3.js](http://alternativeto.net/software/d3-js/) – a JavaScript library for manipulating documents based on data.
 
-##Useful Resources
+## Useful Resources
 
-###Communication
+### Communication
 
 - [Call Recorder](http://www.ecamm.com/mac/) - skype plug-in to record audio and video calls.
 - [Discourse](http://www.discourse.org/) – a platform for community discussion. Whenever you need a mailing list, a forum to discuss something, a chat room where you can type paragraphs, consider Discourse. Watch demo [HERE](https://www.youtube.com/watch?v=huvacbBV8hY).
@@ -227,7 +227,7 @@ Key: * = open source & + = free use.
 - [Zulip](https://zulip.com/) - similar to Slack,  hosted, per-organization. No publicly available information.
 - [Unison](https://www.unison.com/) –  a fast messenger and group collaboration tool that lets teams work more quickly together, especially across different locations and time zones.
 
-###Misc Data Science 
+### Misc Data Science 
 
 - [CSV Kit](https://github.com/onyxfish/csvkit) - A suite of utilities for converting to and working with CSV.
 - [D3.js](http://d3js.org/) - a JavaScript library for manipulating documents based on data.
@@ -239,7 +239,7 @@ Key: * = open source & + = free use.
 - [VIDA](https://vida.io/) - to build, reuse and customize data visualizations with D3.JS in the cloud.
 - [VIDI](http://www.dataviz.org/) - drupal data visualization modules.
 
-###Examples of Innovative Platforms and Tools
+### Examples of Innovative Platforms and Tools
 
 - [Access to Justice Author](http://www.a2jauthor.org/) (A2J Author®) - a cloud based software tool that delivers greater access to justice for self-represented litigants by enabling non-technical authors from the courts, clerk’s offices, legal services organizations, and law schools to rapidly build and implement user friendly web-based interfaces for document assembly.
 - [AngelList](https://angel.co/) - where the world meets startups. Investors: invest in early-stage startups. Startups: find team members, angel investors and venture capital.
