@@ -138,6 +138,7 @@ Key: * = open source & + = free use.
 - [Producteev](https://www.producteev.com/) – an online task management tool that serves as your full productivity platform (task and project management, files sharing, internal communication and productivity apps aggregation).
 - [Project.net](http://www.project.net/) – open source project management software with document, task, and project sharing and collaboration. 
 - [Sharetronix](http://sharetronix.com/) - create a private social network for your organization. 
+- [Taskade](https://Taskade.com/) – team productivity and collaboration tool designed for remote teams.
 - [TopCoder](http://www.topcoder.com/) – a programming expert network, collaboration engine and contest platform. The network provides users a “reputation score” that is listed on their profile page, alongside a set of various statistics regarding their participation in TopCoder challenges. The network also uses competitions and tournaments to drive and incentivize engagement.
 - [Trello](https://trello.com/) – free web-based project management application.
 - [Wrike](https://www.wrike.com) – an interactive, web-based tool for project management and collaboration.
